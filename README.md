@@ -69,6 +69,6 @@ The quality of the raw sequencing reads was evaluated using **FastQC**. The Fast
 #### Trimmed Read QC:
 After trimming the raw reads to remove low-quality bases and adapter sequences, another round of **FastQC** was performed on the trimmed reads to ensure the quality of the processed data.
 
-- **FastQC Report (Trimmed)**: [SRR23020541_2_fastqc.html](reports/fastqc/SRR23020541_2_fastqc.html)
+- **FastQC Report (Trimmed)**: SRR31860546_2_fastqc.html fastqc/SRR31860546_1_fastqc.html
 - **FastQC PNG (Trimmed)**: ![Trimmed FastQC](images/fastqc/SRR23020541_2_fastqc.png)
 
