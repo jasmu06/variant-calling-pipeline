@@ -63,7 +63,7 @@ gatk Mutect2 -R reference_genome/Homo_sapiens.GRCh38.dna.primary_assembly.fa -I 
 vep -i results/SRR23020541_variants.vcf --cache --output_file reports/SRR23020541_vep_annotation.txt
 
 
-           ## 📊 Results & Analysis
+#####📊 Results & Analysis
 
 ### 1. **Quality Control (FastQC)**
 
