@@ -1,14 +1,7 @@
 
 
-# 🧬 Variant Calling Pipeline 
-This pipeline performs variant calling using **GATK Mutect2** and **annotation using VEP (Variant Effect Predictor)**.  
-
-
-# 🧬 Variant Calling Pipeline
-
-
-This pipeline performs variant calling using **GATK Mutect2** and **annotation using VEP (Variant Effect Predictor)**.
-
+# 🧬 Tumor-Variant Calling Pipeline 
+This pipeline performs tumor-variant calling using **GATK Mutect2** and **annotation using VEP (Variant Effect 
 
 ## 📂 Project Structure
 
